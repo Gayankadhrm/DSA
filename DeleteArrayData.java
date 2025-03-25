@@ -3,6 +3,7 @@ import java.util.*;
 public class DeleteArrayData {
     
     public static void main(String[] args) {
+        //I changed this line using GitHub code editor
         int[] arr = new int[10];
         int size =5;
 
